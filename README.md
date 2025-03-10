@@ -4,6 +4,8 @@
 O **Azure AI Language Studio** é uma ferramenta poderosa que utiliza **Processamento de Linguagem Natural (NLP)** para identificar o sentimento de textos, classificando-os como **positivo, negativo, neutro ou misto**. Essa funcionalidade é útil para diversas aplicações, como atendimento ao cliente, análise de feedback e monitoramento de redes sociais.
 
 Eu achei a análise e os resultados realmente impressionantes! A precisão com que a ferramenta identifica sentimentos, incluindo nuances como ironia e contextos mistos, me surpreendeu bastante. A forma como a IA separa trechos individuais para análise mais detalhada também é um grande diferencial.
+![sentimento1](https://github.com/user-attachments/assets/44238e4b-847c-4523-8b2b-12123fbc86e2)
+![sentimento2](https://github.com/user-attachments/assets/2eafe098-8d2b-4b9e-bf9b-a8e1f0078a8f)
 
 ## 🚀 Como Funciona
 1. **Acesso ao Language Studio** – Acesse a plataforma do Azure AI e selecione a funcionalidade de **Análise de Texto**.
